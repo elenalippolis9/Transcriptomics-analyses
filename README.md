@@ -1,2 +1,11 @@
 # SingleCell-analysis
 Single-cell RNA sequencing analysis pipeline using R and Seurat; process of raw count data from a PBMC dataset through to cell type assingment and visualisation
+<img width="540" height="289" alt="Screenshot 2025-12-03 at 12 13 52" src="https://github.com/user-attachments/assets/9a4f6c05-adbd-4f2a-a632-abb547f04a63" />
+<img width="504" height="258" alt="Screenshot 2025-12-03 at 12 14 04" src="https://github.com/user-attachments/assets/20d3f9a2-9738-4e97-8ee0-6f1ee30de09e" />
+<img width="493" height="254" alt="Screenshot 2025-12-03 at 12 14 12" src="https://github.com/user-attachments/assets/a8d5e07e-4720-4bcd-a148-7309d1df30f7" />
+<img width="473" height="263" alt="Screenshot 2025-12-03 at 12 14 19" src="https://github.com/user-attachments/assets/59e7d25a-0433-48f4-9fc8-47dba395f87d" />
+<img width="524" height="231" alt="Screenshot 2025-12-03 at 12 14 25" src="https://github.com/user-attachments/assets/6ffa51d8-d50d-487d-aed0-ffb6c659b664" />
+<img width="479" height="304" alt="Screenshot 2025-12-03 at 12 14 38" src="https://github.com/user-attachments/assets/87aacd70-b31c-4fce-8f77-937aac5a542e" />
+<img width="531" height="286" alt="Screenshot 2025-12-03 at 12 14 51" src="https://github.com/user-attachments/assets/eb124a80-c456-4e70-8c77-12f2179f0f41" />
+<img width="501" height="269" alt="Screenshot 2025-12-03 at 12 14 58" src="https://github.com/user-attachments/assets/ab5cbdb1-77f3-477a-be1c-f870374f5696" /><img width="496" height="270" alt="Screenshot 2025-12-03 at 12 15 07" src="https://github.com/user-attachments/assets/f81121ea-5ae2-42f4-96d8-6ec5743fd79e" />
+
